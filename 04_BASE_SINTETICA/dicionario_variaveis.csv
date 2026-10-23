@@ -1,0 +1,12 @@
+variavel,tipo,descricao,observacao
+registro_id,texto,Identificador único de registro sintético,Não é número patrimonial real
+data_aquisicao,data ISO,Data simulada de aquisição,Gerada deterministicamente
+componente_sintetico,categoria,Classe de ativo imobilizado simulada,"Categorias inspiradas na nota explicativa, não mapeamento real"
+unidade_sintetica,categoria,Negócio/área sintética,Distribuição sintética
+local_sintetico,texto,Código de local sintético,Não representa instalação real específica
+custo_bruto_sintetico_R$,inteiro,Custo bruto sintético em reais,Gerado para o exercício
+depreciacao_acumulada_sintetica_R$,inteiro,Depreciação acumulada sintética,Algumas exceções didáticas
+valor_contabil_liquido_sintetico_R$,inteiro,Valor líquido sintético,"Alocação proporcional ao saldo publicado, com exceções inseridas"
+vida_util_anos_sintetica,inteiro,Vida útil hipotética em anos,Não representa política real de item individual
+status_teste,texto,Indicador normal/exceção,Exceções controladas no manifesto
+observacao,texto,Aviso sobre origem e exceções,Todos os registros são sintéticos
