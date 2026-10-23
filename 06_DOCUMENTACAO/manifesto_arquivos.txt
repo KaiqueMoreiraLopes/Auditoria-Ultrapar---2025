@@ -1,0 +1,41 @@
+Dossie_Auditoria_Ultrapar_2025.pdf	64732 bytes
+README.md	2445 bytes
+documentacao/matriz_cobertura_normas.csv	2939 bytes
+base_sintetica/dicionario_variaveis.csv	1152 bytes
+base_sintetica/manifesto_excecoes_sinteticas.csv	972 bytes
+base_sintetica/imobilizado_sintetico_500k.csv.gz	9211372 bytes
+fonte/Fluxo de caixa.xlsx	92200 bytes
+fonte/Divida Ultrapar 2025.xlsx	118523 bytes
+fonte/Demonstrações e relatórios 2025 - Deloitte (Auditoria Independente).pdf	8388608 bytes
+fonte/DRE, investimentos, balanço patrimonial e ROIC.xlsx	60816 bytes
+fonte/_ITR 4T25.pdf	4127735 bytes
+papel_trabalho/PT_260.txt	706 bytes
+papel_trabalho/PT_265.txt	708 bytes
+papel_trabalho/PT_315.txt	700 bytes
+papel_trabalho/PT_570.txt	670 bytes
+papel_trabalho/PT_320.txt	683 bytes
+papel_trabalho/PT_EC.txt	767 bytes
+papel_trabalho/PT_530.txt	697 bytes
+papel_trabalho/PT_200.txt	695 bytes
+papel_trabalho/PT_402.txt	693 bytes
+papel_trabalho/PT_250.txt	689 bytes
+papel_trabalho/PT_330.txt	687 bytes
+papel_trabalho/PT_300.txt	666 bytes
+papel_trabalho/PT_505.txt	679 bytes
+papel_trabalho/PT_520.txt	680 bytes
+papel_trabalho/PT_560.txt	667 bytes
+papel_trabalho/PT_501.txt	690 bytes
+papel_trabalho/PT_510.txt	688 bytes
+papel_trabalho/PT_540.txt	683 bytes
+papel_trabalho/PT_600.txt	688 bytes
+papel_trabalho/PT_220.txt	728 bytes
+papel_trabalho/PT_230.txt	691 bytes
+papel_trabalho/PT_550.txt	677 bytes
+papel_trabalho/PT_210.txt	720 bytes
+papel_trabalho/PT_450.txt	685 bytes
+papel_trabalho/PT_240.txt	697 bytes
+papel_trabalho/PT_580.txt	678 bytes
+papel_trabalho/PT_500.txt	680 bytes
+planilhas/Papéis_de_trabalho_e_calculos.xlsx	15762 bytes
+codigo/gerar_base_sintetica.py	2457 bytes
+codigo/testes_auditoria.py	749 bytes
