@@ -1,0 +1,6 @@
+PT 29A — Programa integrado por ciclos
+Objetivo: consolidar programas de auditoria para receitas, disponibilidades, estoques, imobilizado, passivos e estimativas, com classificação EP/PA/SD.
+
+Receitas — PA: analítica mensal, teste de corte, lançamentos manuais e amostra de faturas/entregas. Disponibilidades — PA: conciliações, extratos externos, aplicações e corte. Estoques — PA: contagem física, custo médio, valor realizável líquido e obsolescência. Imobilizado — PA: cadastro-razão, adições/baixas, depreciação e impairment; SD: testes de exceção na base sintética. Passivos — PA: busca de passivos não registrados, pagamentos subsequentes, contratos e confirmações não enviadas. Estimativas — PA/SD: método, premissas, dados e sensibilidade hipotética.
+
+Limitação: não foram testados registros reais internos. Os programas estão detalhados na planilha Papéis_de_trabalho_e_calculos.xlsx, aba “Programas de auditoria”. Preparador/matrícula: [preencher]. Data: 23/10/2026. Revisão: [reservado].
